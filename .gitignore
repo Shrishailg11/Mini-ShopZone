@@ -1,0 +1,22 @@
+# Ignore node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# IDE folders
+.vscode/
+.idea/
+
+# Placeholder files
+*.gkeep*
